@@ -40,3 +40,8 @@ Next is the configuration file, found in /captures/config.php here there are a f
 6. The setup is now complete, test your uploader and it 'should' work!
 ```
 
+# Preview
+
+Link: https://mrsheldon.me/captures/
+
+![Preview of gallery](https://mrsheldon.me/captures/670022.png)
