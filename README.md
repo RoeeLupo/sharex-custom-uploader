@@ -45,3 +45,9 @@ Next is the configuration file, found in /captures/config.php here there are a f
 Link: https://mrsheldon.me/captures/
 
 ![Preview of gallery](https://mrsheldon.me/captures/670022.png)
+
+# Credit
+
+https://github.com/JoeGandy/ShareX-Custom-Upload
+
+I modified his version for my needs
