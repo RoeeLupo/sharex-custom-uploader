@@ -42,8 +42,6 @@ Next is the configuration file, found in /captures/config.php here there are a f
 
 # Preview
 
-Link: https://mrsheldon.me/captures/
-
 ![Preview of gallery](https://mrsheldon.me/images/670022.png)
 
 # Credit
