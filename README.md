@@ -42,10 +42,6 @@ Next is the configuration file, found in /captures/config.php here there are a f
 
 # Preview
 
-![Preview of gallery](https://mrsheldon.me/images/670022.png)
+![Preview of gallery](https://cdn.mrsheldon.me/files/670022.png)
 
-# Credit
 
-https://github.com/JoeGandy/ShareX-Custom-Upload
-
-I modified his version for my needs
