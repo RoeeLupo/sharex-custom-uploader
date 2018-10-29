@@ -1,4 +1,4 @@
-# sharex-custom-upload
+# sharex-custom-uploader
 A PHP script I modified for uploading custom sharex files to your own webserver
 
 # Setup
