@@ -6,9 +6,6 @@
 <h3 align="center">A PHP script for uploading ShareX files to your own web server</h3>
 
 <p align="center">
-      <a href="https://patreon.com/discordboats" target="_blank">
-        <img src="https://img.shields.io/badge/patreon-DiscordBoats-blue.svg?logo=patreon&logoWidth=30&logoColor=F96854&style=popout-square" alt="Patreon"/>
-    </a>
     <a href="https://paypal.me/roeelupo" target="_blank">
         <img src="https://img.shields.io/badge/paypal-Roee%20Lupo-blue.svg?logo=paypal&logoWidth=30&logoColor=00457C&style=popout-square" alt="PayPal"/>
     </a>
@@ -71,9 +68,6 @@ When you are ready, simply create a pull request for your contribution and I wil
 
 You can also help me and the project out by contributing through a donation on PayPal or by supporting me monthly on my Patreon page.
 <p>
-    <a href="https://patreon.com/discordboats" target="_blank">
-        <img src="https://img.shields.io/badge/patreon-DiscordBoats-blue.svg?logo=patreon&logoWidth=30&logoColor=F96854&style=popout-square" alt="Patreon"/>
-    </a>
     <a href="https://paypal.me/roeelupo" target="_blank">
         <img src="https://img.shields.io/badge/paypal-Roee%20Lupo-blue.svg?logo=paypal&logoWidth=30&logoColor=00457C&style=popout-square" alt="PayPal"/>
     </a>
