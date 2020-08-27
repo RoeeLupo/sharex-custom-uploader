@@ -26,7 +26,7 @@
 			<br>
 			<?php if(empty($config['allowed_ips']) || in_array($_SERVER['REMOTE_ADDR'], $config['allowed_ips'])){?>
 					<?php
-					$ignore = Array("index.php", "js", "css", ".", "..", "gallery.php", "img", "upload.php");
+					$ignore = Array("index.php", "config.php", "js", "css", ".", "..", "img", "upload.php");
 					$files1 = scandir(".");
 					?>
 				<br>
